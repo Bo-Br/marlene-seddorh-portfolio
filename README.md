@@ -2,4 +2,4 @@
 A custom static portfolio using AI
 
 
-link : marlene-seddorh-portfolio.netlify.app
+link : [link](https://marlene-seddorh-portfolio.netlify.app)
